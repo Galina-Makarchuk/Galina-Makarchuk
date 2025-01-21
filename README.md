@@ -25,8 +25,8 @@ __My features:__
 * Sense of humor.
 
 __Projects speak louder than words:__
-* Tableau portfolio : [tableau.com/galina.makarchuk/vizzes](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
-* Web app dashboard: https://choose-your-dream-car.onrender.com
+* Tableau portfolio: [tableau.com/galina.makarchuk/vizzes](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
+* Web app dashboard: [choose-your-dream-car.onrender.com](https://choose-your-dream-car.onrender.com)
 * Advanced Spreadsheets project: [google.com/spreadsheets/vacation_rental_market_analysis](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
 
 __Connection possibilities:__
