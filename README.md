@@ -1,7 +1,6 @@
 Hello, this is Galina Makarchuk speaking.
 
-I am a graduate from the TripleTen Data Analytics Bootcamp with extensive experience in real-world analytics projects, \
-from exploratory data analysis (EDA) to business intelligence (BI), web app dashboard development and machine learning (ML).
+I am a graduate from the TripleTen Data Analytics Bootcamp with extensive experience in real-world analytics projects, from exploratory data analysis (EDA) to business intelligence (BI), web app dashboard development and machine learning (ML).
 
 __Technical skills:__
 
