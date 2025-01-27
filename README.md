@@ -38,7 +38,7 @@ __Projects speak louder than words:__
 * Business analytics project: https://github.com/Galina-Makarchuk/business_analytics_project
 * Machine learning project: https://github.com/Galina-Makarchuk/machine_learning_project
 * A/B testing project: https://github.com/Galina-Makarchuk/ab_testing_project
-* Exploratory data analysis project: https://github.com/Galina-Makarchuk/EDA_project
+* Customer behavior EDA project: https://github.com/Galina-Makarchuk/customer_behavior_project
 * Tableau portfolio: [tableau.com/galina.makarchuk/vizzes](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
 * Web app dashboard: [choose-your-dream-car.onrender.com](https://choose-your-dream-car.onrender.com)
 * Advanced Spreadsheets project: [google.com/spreadsheets/vacation_rental_market_analysis](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
