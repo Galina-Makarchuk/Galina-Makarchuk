@@ -4,14 +4,10 @@ I am a graduate from the TripleTen Data Analytics Bootcamp with extensive experi
 
 __Technical skills:__
 
-* Programming languages: \
-  SQL, Python (Pandas, NumPy, SciPy)
-* Data analysis: \
-  Financial analytics, Business analytics, A/B testing, RFM analysis, Basket analysis, Cosine similarity
-* Data visualization: \
-  Plotly Go, Plotly Express, Seaborn, Matplotlib
-* Machine learning: \
-  Scikit-learn, supervised learning (Regression, Classification), unsupervised learning (Clustering)
+* Programming languages: SQL, Python (Pandas, NumPy, SciPy)
+* Data analysis: Financial analytics, Business analytics, A/B testing, RFM analysis, Basket analysis, Cosine similarity
+* Data visualization: Plotly Go, Plotly Express, Seaborn, Matplotlib
+* Machine learning: Scikit-learn, supervised learning (Regression, Classification), unsupervised learning (Clustering)
 * Business intelligence: \
   Spreadsheets, Tableau
 * Database management: \
