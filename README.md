@@ -39,9 +39,9 @@ __Projects speak louder than words:__
 * [Machine learning project](https://github.com/Galina-Makarchuk/machine_learning_project)
 * [A/B testing project](https://github.com/Galina-Makarchuk/ab_testing_project)
 * [Customer behavior EDA project](https://github.com/Galina-Makarchuk/customer_behavior_project)
-* Tableau portfolio: [tableau.com/galina.makarchuk/vizzes](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
-* Web app dashboard: [choose-your-dream-car.onrender.com](https://choose-your-dream-car.onrender.com)
-* Advanced Spreadsheets project: [google.com/spreadsheets/vacation_rental_market_analysis](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
+* [Web app dashboard](https://choose-your-dream-car.onrender.com)
+* [Advanced Spreadsheets project](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
+* [Tableau portfolio](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
 
 __Connection possibilities:__
 * Email: galya.makarchuk@gmail.com
