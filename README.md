@@ -9,7 +9,7 @@ __Technical skills:__
 * Data analysis: \
   Financial analytics, Business analytics, A/B testing, RFM analysis, Basket analysis, Cosine similarity
 * Data visualization: \
-  Plotly Go, Plotly Express, Seaborn, Matplotlib
+  Plotly, Seaborn, Matplotlib
 * Machine learning: \
   Scikit-learn, supervised learning (Regression, Classification), unsupervised learning (Clustering)
 * Business intelligence: \
