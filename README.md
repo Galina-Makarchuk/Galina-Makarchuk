@@ -1,6 +1,6 @@
 Hello, this is Galina Makarchuk speaking.
 
-I am a graduate from the TripleTen Data Analytics Bootcamp with rich experience in data-based projects, from exploratory data analysis (EDA) to business intelligence (BI), web app dashboard development and machine learning (ML).
+A Data Analyst with practical experience in delivering data-driven projects, from exploratory data analysis (EDA) to business intelligence (BI), web app dashboard development and machine learning (ML).
 
 __Technical skills:__
 
