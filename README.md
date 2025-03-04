@@ -7,7 +7,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 * __Programming languages__ \
   SQL, Python (Pandas, NumPy, SciPy)
 * __Data analysis__ \
-  Financial analytics, Business analytics, Cohort analysis, A/B testing, RFM analysis, Basket analysis, Cosine similarity, Segment margin analysis, Correlation analysis, Regression analysis, Descriptive statistics
+  Financial analytics, Business analytics, Cohort analysis, A/B testing, RFM analysis, Basket analysis, Cosine similarity, Segment margin analysis, Correlation analysis, Regression analysis, EDA, Descriptive statistics
 * __Data visualization__ \
   Plotly, Seaborn, Matplotlib
 * __Machine learning__ \
@@ -28,11 +28,11 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 <h3>Techniques</h3>
 
 * __Data engineering__ \
-  data optimization, data cleaning, data preprocessing, EDA
+  data retrieval, data optimization, data cleaning, data preprocessing
 * __Data analysis__ \
-  data anomalies, data balance, data aggregation, dataframes concatenation, merge, grouping, indexing, conditional filtering, multicollinearity, correlation matrix
+  data structures, EDA, data anomalies, data balance, descriptive statistics, data aggregation, grouping, sorting and ranking, merge, dataframes concatenation, data selection, boolean indexing, conditional filtering, replacing values, dropping values, functions: lambda, where, mask, split - apply - combine, window calculations, multicollinearity, correlation matrix, data visualizations
 * __Hypothesis testing__ \
-  hypothesis prioritization, ICE and RICE frameworks, statistical tests, Shapiro test, Levene's test, t-test, Mann-Whitney U test
+  hypothesis prioritization, ICE and RICE frameworks, A/B testing, statistical tests, Shapiro test, Levene's test, t-test, Mann-Whitney U test
 * __BI__ \
   pivot tables, VLOOKUP function, calculated fields, data slicing, conditional formatting
 * __ML__ \
