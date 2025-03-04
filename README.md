@@ -86,12 +86,29 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
     <td><li>customer behavior</li><li>product analytics</li><li>e-commerce</li><li>sales performance</li><li>business intelligence</li></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/car_selection_web_app">Car selection web app</a></td>
+    <td>an interactive app for choosing a car based on client's preferences</td>
+    <td><li>exploratory data analysis</li><li>data cleaning</li><li>data distribution</li><li>trends in the dataset</li><li>dashboard development</li><li>deployment to a cloud service</li></td>
+    <td><li>web development</li><li>data engineering</li><li>data analysis</li><li>data visualization</li></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/random_coinflips_simulator">Coinflips simulator</a></td>
+    <td>an interactive web app for simulating random coin flips</td>
+    <td><li>dashboard development</li><li>button and slider widgets</li><li>a plot of the current progress</li><li>a table with results</li><li>deployment to a cloud service</li></td>
+    <td><li>web development</li><li>data visualization</li></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/product_reorder_rate">Product reorder rate</a></td>
+    <td>find products' reorder rates</td>
+    <td><li>what proportion of orders are reorders for each product</li><li>a table with product ID, product name, and reorder proportion</li></td>
+    <td><li>e-commerce</li><li>sales analytics</li></td>
+  </tr>
 </table>
 
 
 
 
-* [Web app dashboard](https://choose-your-dream-car.onrender.com)
 * [Advanced Spreadsheets project](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
 * [Tableau portfolio](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
 
