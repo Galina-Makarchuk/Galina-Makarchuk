@@ -68,11 +68,22 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
     <td><li>customer behavior</li><li>product analytics</li><li>e-commerce analytics</li><li>sales performance</li><li>business intelligence</li></td>
   </tr>
+   <tr>
+     <td><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
+    <td>ML model that recommends the mobile plan most tailored to user's needs</td>
+    <td><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
+    <td><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
+    <td>ML model that recommends the mobile plan most tailored to user's needs</td>
+    <td><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
+    <td><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
+  </tr>
 </table>
 
-* [Financial analysis project](https://github.com/Galina-Makarchuk/financial_analysis_project)
-* [Business analytics project](https://github.com/Galina-Makarchuk/business_analytics_project)
-* [Machine learning project](https://github.com/Galina-Makarchuk/machine_learning_project)
+
+
 * [A/B testing project](https://github.com/Galina-Makarchuk/ab_testing_project)
 * [Customer behavior EDA project](https://github.com/Galina-Makarchuk/customer_behavior_project)
 * [Web app dashboard](https://choose-your-dream-car.onrender.com)
