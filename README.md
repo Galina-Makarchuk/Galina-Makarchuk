@@ -77,7 +77,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tr>
     <td><a href="https://github.com/Galina-Makarchuk/ab_testing_project">A/B testing project</a></td>
     <td>conversion rate boost of a large online retailer</td>
-    <td><li>ICE and RICE frameworks for hypothesis prioritization</li><li>revenue, average check, conversion rate analysis</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
+    <td><li>ICE and RICE frameworks</li><li>revenue, average check, conversion rate</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
     <td><li>e-commerce</li><li>business analytics</li><li>conversion rate optimization</li><li>statistical analysis</li></td>
   </tr>
   <tr>
