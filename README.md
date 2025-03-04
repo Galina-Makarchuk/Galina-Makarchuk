@@ -76,7 +76,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   </tr>
   <tr>
     <td><a href="https://github.com/Galina-Makarchuk/ab_testing_project">A/B testing project</a></td>
-    <td>drive conversion rate of a large online retailer</td>
+    <td>conversion rate boost of a large online retailer</td>
     <td><li>ICE and RICE frameworks for hypothesis prioritization</li><li>revenue, average check, conversion rate analysis</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
     <td><li>e-commerce</li><li>business analytics</li><li>conversion rate optimization</li><li>statistical analysis</li></td>
   </tr>
@@ -100,17 +100,23 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   </tr>
   <tr>
     <td><a href="https://github.com/Galina-Makarchuk/product_reorder_rate">Product reorder rate</a></td>
-    <td>find products' reorder rates</td>
+    <td>products' reorder rates</td>
     <td><li>what proportion of orders are reorders for each product</li><li>a table with product ID, product name, and reorder proportion</li></td>
     <td><li>e-commerce</li><li>sales analytics</li></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/data_visualization_python">Data visualization in Python</a></td>
+    <td>recreation of the given figure with the Seaborn library</td>
+    <td><li>exploratory data analysis</li><li>legend labels conversion</li><li>legend labels colors change</li><li>creating title and axis labels</li><li>setting the x-axis data order</li><li>defining axis ticks and ranges</li></td>
+    <td><li>data visualization</li><li>plot customization</li></td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing">Vacation rental market analysis</a></td>
+    <td>1. revenue estimation <br> 2. prioritization of properties to be targeted <br> 3. recommendations for targeted investment</td>
+    <td><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
+    <td><li>investment analysis</li><li>real estate analytics</li><li>market research</li></td>
+  </tr>
 </table>
-
-
-
-
-* [Advanced Spreadsheets project](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
-* [Tableau portfolio](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
 
 __Connection possibilities:__
 * Email: galya.makarchuk@gmail.com
