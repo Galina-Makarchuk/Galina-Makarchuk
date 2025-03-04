@@ -63,29 +63,34 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td><li>profitability analysis</li><li>financial forecasting</li><li>financial modeling</li></td>
   </tr>
   <tr>
-     <td><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
-    <td>1. customer behavior research <br> 2. sales performance evaluation <br> 3. product analytics <br> 4. shopping cart analysis</td>
-    <td><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
-    <td><li>customer behavior</li><li>product analytics</li><li>e-commerce analytics</li><li>sales performance</li><li>business intelligence</li></td>
+    <td><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
+    <td>marketing spend optimization for Yandex.Afisha</td>
+    <td><li>customers’ behavior: conversion rate, average check, LTV</li><li> interaction with product: DAU, ASL, retention rate</li><li>marketing strategy: money spent per source, CAC, ROI, ROMI</li><li>when the customer pays off</li><li>evaluation of conversion channels</li><li>reports for product, sales & marketing departments</li><li>recommendations on ad sources for investment</li></td>
+    <td><li>marketing</li><li>marketing strategy</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
   </tr>
-   <tr>
-     <td><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
     <td>ML model that recommends the mobile plan most tailored to user's needs</td>
     <td><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
     <td><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
   </tr>
   <tr>
-     <td><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
-    <td>ML model that recommends the mobile plan most tailored to user's needs</td>
-    <td><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
-    <td><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
+    <td><a href="https://github.com/Galina-Makarchuk/ab_testing_project">A/B testing project</a></td>
+    <td>drive conversion rate of a large online retailer</td>
+    <td><li>ICE and RICE frameworks for hypothesis prioritization</li><li>revenue, average check, conversion rate analysis</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
+    <td><li>e-commerce</li><li>business analytics</li><li>conversion rate optimization</li><li>statistical analysis</li></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Galina-Makarchuk/customer_behavior_project">Customer behavior EDA</a></td>
+    <td>1. customer behavior research <br> 2. sales performance evaluation <br> 3. product analytics <br> 4. shopping cart analysis</td>
+    <td><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
+    <td><li>customer behavior</li><li>product analytics</li><li>e-commerce</li><li>sales performance</li><li>business intelligence</li></td>
   </tr>
 </table>
 
 
 
-* [A/B testing project](https://github.com/Galina-Makarchuk/ab_testing_project)
-* [Customer behavior EDA project](https://github.com/Galina-Makarchuk/customer_behavior_project)
+
 * [Web app dashboard](https://choose-your-dream-car.onrender.com)
 * [Advanced Spreadsheets project](https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing)
 * [Tableau portfolio](https://public.tableau.com/app/profile/galina.makarchuk/vizzes)
