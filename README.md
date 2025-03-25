@@ -53,7 +53,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
 <h3>Projects speak louder than words</h3>
 
-<table style='border: 1px solid red; font-size: x-small'>
+<table style='font-size: x-small'>
   <thead>
   <tr>
     <td><b>Project</b></td>
@@ -73,30 +73,39 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <ul><li>key financial indicators, financial trends, market shifts, and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML regression model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
     <td valign='top'><ul><li>SQLite</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Scikit-learn</li><li>Plotly</li><li>Matplotlib</li><li>Tableau</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
+    <td valign='top'><ul><li>marketing</li><li>marketing strategy</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
     <td valign='top'>marketing spend optimization for Yandex.Afisha</td>
-    <td valign='top'><ul style='padding-left:1em'><li>customers’ behavior: conversion rate, average check, LTV</li><li> interaction with product: DAU, ASL, retention rate</li><li>marketing strategy: money spent per source, CAC, ROI, ROMI</li><li>when the customer pays off</li><li>evaluation of conversion channels</li><li>reports for product, sales & marketing departments</li><li>recommendations on ad sources for investment</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>marketing</li><li>marketing strategy</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
+    <td valign='top'><ul><li>customers’ behavior: conversion rate, average check, LTV</li><li> interaction with product: DAU, ASL, retention rate</li><li>marketing strategy: money spent per source, CAC, ROI, ROMI</li><li>when the customer pays off</li><li>evaluation of conversion channels</li><li>reports for product, sales & marketing departments</li><li>recommendations on ad sources for investment</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
+    <td valign='top'><ul><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
     <td valign='top'>ML model that recommends the mobile plan most tailored to user's needs</td>
-    <td valign='top'><ul style='padding-left:1em'><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>data science</li><li>recommender system</li><li>supervised learning</li><li>classification algorithms</li><li>model optimization</li></td>
+    <td valign='top'><ul><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
+    <td valign='top'><ul><li>Python</li><li>Scikit-learn</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/ab_testing_project">A/B testing project</a></td>
+    <td valign='top'><ul><li>e-commerce</li><li>business analytics</li><li>conversion rate optimization</li><li>statistical analysis</li></td>
     <td valign='top'>conversion rate boost of a large online retailer</td>
-    <td valign='top'><ul style='padding-left:1em'><li>ICE and RICE frameworks</li><li>revenue, average check, conversion rate</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>e-commerce</li><li>business analytics</li><li>conversion rate optimization</li><li>statistical analysis</li></td>
+    <td valign='top'><ul><li>ICE and RICE frameworks</li><li>revenue, average check, conversion rate</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Matplotlib</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/customer_behavior_project">Customer behavior EDA</a></td>
+    <td valign='top'><ul><li>customer behavior</li><li>product analytics</li><li>e-commerce</li><li>sales performance</li><li>business intelligence</li></td>
     <td valign='top'>1. customer behavior research <br> 2. sales performance evaluation <br> 3. product analytics <br> 4. shopping cart analysis</td>
-    <td valign='top'><ul style='padding-left:1em'><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>customer behavior</li><li>product analytics</li><li>e-commerce</li><li>sales performance</li><li>business intelligence</li></td>
+    <td valign='top'><ul><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Matplotlib</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/car_selection_web_app">Car selection web app</a></td>
     <td valign='top'>an interactive app for choosing a car based on client's preferences</td>
