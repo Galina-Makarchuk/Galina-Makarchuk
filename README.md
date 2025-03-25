@@ -35,9 +35,11 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   data anomalies, data balance, descriptive statistics, data aggregation, grouping, sorting and ranking, merging, dataframes concatenation, data selection, boolean indexing, conditional filtering, replacing values, dropping values, lambda function, mask method, split-apply-combine, window calculations, multicollinearity, correlation matrix, data visualizations
 * __Excel & Spreadsheets__ \
   pivot tables, VLOOKUP function, calculated fields, data slicing, conditional formatting, handling missing data, data visualizations
+* __Tableau__ \
+  joins, data aggregation, data filtering, handling missing values, calculated fields, data manipulation functions, table calculations, dynamic parameters and filters, context filters, data visualizations, interactive charts, composite charts, dashboards, stories
 * __Hypothesis testing__ \
   hypothesis prioritization, ICE and RICE frameworks, A/B testing, statistical tests, Shapiro test, Levene's test, Mann-Whitney U test, t-test
-* __Machine Learning__ \
+* __Machine learning__ \
   feature engineering, hyperparameter tuning, one-hot encoding, clipping, column transformer, power transformer, grid search, model evaluation, confusion matrix, F1 score, recall, precision, binary classification, recommender system, Decision Tree, Random Forest, Logistic Regression, Linear Regression, Random Forest Regressor
 
 <h3>My features</h3>
