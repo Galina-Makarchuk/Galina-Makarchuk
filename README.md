@@ -56,20 +56,22 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 <table style='border: 1px solid red; font-size: x-small'>
   <thead>
   <tr>
-    <td><b>project</b></td>
-    <td><b>goal</b></td>
-    <td><b>description</b></td>
-    <td><b>field</b></td>
+    <td><b>Project</b></td>
+    <td><b>Field</b></td>
+    <td><b>Goal</b></td>
+    <td><b>Description</b></td>
+    <td><b>Tools</b></td>
   </tr>
   </thead>
 
   <tbody>
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/financial_analysis_project" >Financial analysis</a></td>
-    <td valign='top'><ol style='padding-left:1.25em'><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
+    <td valign='top'><li>profitability analysis</li><li>financial forecasting</li><li>financial modeling</li></td>
+    <td valign='top'><ol><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
     <td valign='top'>
-    <ul style='padding-left:1em'><li>key financial indicators, financial trends, market shifts, and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML regression model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>profitability analysis</li><li>financial forecasting</li><li>financial modeling</li></td>
+    <ul><li>key financial indicators, financial trends, market shifts, and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML regression model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
+    <td valign='top'><ul><li>SQLite</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Scikit-learn</li><li>Plotly</li><li>Matplotlib</li><li>Tableau</li></td>
   </tr>
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
