@@ -7,7 +7,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 * __Programming languages__ \
   SQL, Python (Pandas, NumPy, SciPy)
 * __Data analysis__ \
-  Financial analytics, Business analytics, Performance evaluation, Trends analysis, Cohort analysis, A/B testing, RFM analysis, Basket analysis, Cosine similarity, Segment margin analysis, Correlation analysis, Regression analysis, EDA, Descriptive statistics
+  Financial analytics, Business analytics, Performance evaluation, Trends analysis, Cohort analysis, A/B testing, Statistical analysis, Exploratory Data Analysis, RFM analysis, Basket analysis, Cosine similarity, Segment margin analysis, Correlation analysis, Regression analysis, Time series analysis
 * __Data visualization__ \
   Plotly, Seaborn, Matplotlib
 * __Machine learning__ \
@@ -30,13 +30,13 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 * __Data engineering__ \
   data retrieval, data optimization, data cleaning, data preprocessing
 * __SQL & Databases__ \
-  joins, query optimization, handling duplicates, handling missing values
+  data aggregation, data transformation, filtering, merging and joins, window functions
 * __Python & Statistics__ \
-  data structures, EDA, data anomalies, data balance, descriptive statistics, data aggregation, grouping, sorting and ranking, merge, dataframes concatenation, data selection, boolean indexing, conditional filtering, replacing values, dropping values, functions: lambda, where, mask, split - apply - combine, window calculations, multicollinearity, correlation matrix, data visualizations
+  data anomalies, data balance, descriptive statistics, data aggregation, grouping, sorting and ranking, merging, dataframes concatenation, data selection, boolean indexing, conditional filtering, replacing values, dropping values, lambda function, mask method, split-apply-combine, window calculations, multicollinearity, correlation matrix, data visualizations
 * __Excel & Spreadsheets__ \
-  pivot tables, VLOOKUP function, calculated fields, data slicing, conditional formatting, handling missing data  
+  pivot tables, VLOOKUP function, calculated fields, data slicing, conditional formatting, handling missing data, data visualizations
 * __Hypothesis testing__ \
-  hypothesis prioritization, ICE and RICE frameworks, A/B testing, statistical tests, Shapiro test, Levene's test, t-test, Mann-Whitney U test
+  hypothesis prioritization, ICE and RICE frameworks, A/B testing, statistical tests, Shapiro test, Levene's test, Mann-Whitney U test, t-test
 * __Machine Learning__ \
   feature engineering, hyperparameter tuning, one-hot encoding, clipping, column transformer, power transformer, grid search, model evaluation, confusion matrix, F1 score, recall, precision, binary classification, recommender system, Decision Tree, Random Forest, Logistic Regression, Linear Regression, Random Forest Regressor
 
