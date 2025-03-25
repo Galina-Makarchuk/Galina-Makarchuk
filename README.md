@@ -108,33 +108,42 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
       
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/car_selection_web_app">Car selection web app</a></td>
+    <td valign='top'><ul><li>web development</li><li>data engineering</li><li>data analysis</li><li>data visualization</li></td>
     <td valign='top'>an interactive app for choosing a car based on client's preferences</td>
-    <td valign='top'><ul style='padding-left:1em'><li>exploratory data analysis</li><li>data cleaning</li><li>data distribution</li><li>trends in the dataset</li><li>dashboard development</li><li>deployment to a cloud service</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>web development</li><li>data engineering</li><li>data analysis</li><li>data visualization</li></td>
+    <td valign='top'><ul><li>exploratory data analysis</li><li>data cleaning</li><li>data distribution</li><li>trends in the dataset</li><li>dashboard development</li><li>deployment to a cloud service</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li><li>Streamlit</li><li>GitHub</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/random_coinflips_simulator">Coinflips simulator</a></td>
+    <td valign='top'><ul><li>web development</li><li>data visualization</li></td>
     <td valign='top'>an interactive web app for simulating random coin flips</td>
-    <td valign='top'><ul style='padding-left:1em'><li>dashboard development</li><li>button and slider widgets</li><li>a plot of the current progress</li><li>a table with results</li><li>deployment to a cloud service</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>web development</li><li>data visualization</li></td>
+    <td valign='top'><ul><li>dashboard development</li><li>button and slider widgets</li><li>a plot of the current progress</li><li>a table with results</li><li>deployment to a cloud service</li></td>
+     <td valign='top'><ul><li>Python</li><li>Streamlit</li><li>GitHub</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/product_reorder_rate">Product reorder rate</a></td>
+    <td valign='top'><ul><li>e-commerce</li><li>sales analytics</li></td>
     <td valign='top'>products' reorder rates</td>
-    <td valign='top'><ul style='padding-left:1em'><li>what proportion of orders are reorders for each product</li><li>a table with product ID, product name, and reorder proportion</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>e-commerce</li><li>sales analytics</li></td>
+    <td valign='top'><ul><li>what proportion of orders are reorders for each product</li><li>a table with product ID, product name, and reorder proportion</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/data_visualization_python">Data visualization in Python</a></td>
+    <td valign='top'><ul><li>data visualization</li><li>plot customization</li></td>
     <td valign='top'>recreation of the given figure with the Seaborn library</td>
-    <td valign='top'><ul style='padding-left:1em'><li>exploratory data analysis</li><li>legend labels conversion</li><li>legend labels colors change</li><li>creating title and axis labels</li><li>setting the x-axis data order</li><li>defining axis ticks and ranges</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>data visualization</li><li>plot customization</li></td>
+    <td valign='top'><ul><li>exploratory data analysis</li><li>legend labels conversion</li><li>legend labels colors change</li><li>creating title and axis labels</li><li>setting the x-axis data order</li><li>defining axis ticks and ranges</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>Matplotlib</li><li>Seaborn</li></td>
   </tr>
+      
   <tr>
     <td valign='top'><a href="https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing">Vacation rental market analysis</a></td>
+    <td valign='top'><ul><li>investment analysis</li><li>real estate analytics</li><li>market research</li></td>
     <td valign='top'>1. revenue estimation <br> 2. prioritization of properties to be targeted <br> 3. recommendations for targeted investment</td>
-    <td valign='top'><ul style='padding-left:1em'><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
-    <td valign='top'><ul style='padding-left:1em'><li>investment analysis</li><li>real estate analytics</li><li>market research</li></td>
+    <td valign='top'><ul><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
+    <td valign='top'><ul><li>Spreadsheets</li></td>
   </tr>
   </tbody>
 </table>
