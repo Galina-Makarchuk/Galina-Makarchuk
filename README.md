@@ -100,8 +100,8 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
       
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/customer_behavior_project">Customer behavior EDA</a></td>
-    <td valign='top'><ul><li>business intelligence</li><li>sales performance</li><li>customer behavior</li><li>product analytics</li></td>
-    <td valign='top'><ol><li>Instacart customer behavior research <li>sales performance evaluation <li>product analytics <li>shopping cart analysis</ol></td>
+    <td valign='top'><ul><li>sales performance</li><li>customer behavior</li><li>product analytics</li></td>
+    <td valign='top'><ol><li>customer behavior research <li>sales performance evaluation <li>product analytics <li>shopping cart analysis</ol></td>
     <td valign='top'><ul><li>customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
     <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Matplotlib</li></td>
   </tr>
@@ -148,24 +148,24 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tr>
     <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/BusinessMetricsbyDayofWeek_17152571098980/Dashboard1">Business metrics in Tableau</a></td>
-    <td valign='top'><ul><li>business intelligence</li><li>sales performance</li><li>finance</li></td>
-    <td valign='top'>Evaluate the main business metrics by day of the week.</td>
-    <td valign='top'>An interactive dashboard with metrics by category, subcategory, and state:<ul><li>total sales</li><li>total profit</li><li>total number of orders</li><li>profit margin</li></td>
+    <td valign='top'><ul><li>finance</li><li>business intelligence</li><li>sales performance</li></td>
+    <td valign='top'>Evaluation of the main business metrics by day of the week.</td>
+    <td valign='top'>An interactive dashboard with metrics by state, category and subcategory:<ul><li>total sales</li><li>total profit</li><li>total number of orders</li><li>profit margin</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
 
   <tr>
     <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/FinancialAnalysis_17353392284410/FinancialAnalysis">Financial analysis in Tableau</a></td>
     <td valign='top'><ul><li>finance</li><li> business intelligence</li><li>profitability analysis</li></td>
-    <td valign='top'><ol><li>assess a company’s financial health<li>investigate regions’ profitability<ol></td>
-    <td valign='top'><ul><li>a dashboard with key financial indicators</li><li>a dashboard with regional trends</li><li>a presentation & recommendations</li></td>
+    <td valign='top'><ol><li>company’s financial health assessment<li>regions’ profitability investigation<ol></td>
+    <td valign='top'><ul><li>a dashboard with key financial indicators</li><li>a dashboard with regional trends</li><li>a presentation and recommendations</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
 
   <tr>
     <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/ReturnReasonsAnalysis_17380660444150/DashboardReturnsReasons">Return reasons analysis in Tableau</a></td>
     <td valign='top'><ul><li>sales performance</li><li>business intelligence</li></td>
-    <td valign='top'>Identify the root causes of returns.</td>
+    <td valign='top'>Detection of the root causes of returns.</td>
     <td valign='top'><ul><li>a dashboard with return reasons and rates by month, customer, state, category and subcategory</li><li>a story with recommendations</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
@@ -173,8 +173,8 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tr>
     <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/GeographicSeasonalImpactonReturns/GeoReturns">Geographic and seasonal returns analysis in Tableau</a></td>
     <td valign='top'><ul><li>sales performance</li><li>business intelligence</li></td>
-    <td valign='top'><ol><li>explore how geographic and seasonal factors influence the return rate<li>identify the most returned items<ol></td>
-    <td valign='top'>4 interactive dashboards with:<ul><li>geographic effects on returns by state</li><li>return rate by state per subcategory</li><li>seasonal effects on returns by month per subcategory</li><li>geographical-seasonal effects on returns</li></ul>A story with recommendations</td>
+    <td valign='top'><ol><li>influence of geographic and seasonal factors on return rates<li>identification of the most returned items<ol></td>
+    <td valign='top'>4 interactive dashboards with:<ul><li>geographic effects on returns by state</li><li>return rate by state per subcategory</li><li>seasonal effects on returns by month per subcategory</li><li>geographical-seasonal effects on returns</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
   </tbody>
