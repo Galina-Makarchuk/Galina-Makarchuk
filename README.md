@@ -145,6 +145,38 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><ul><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with the top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
     <td valign='top'><ul><li>Spreadsheets</li></td>
   </tr>
+
+  <tr>
+    <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/BusinessMetricsbyDayofWeek_17152571098980/Dashboard1">Business metrics in Tableau</a></td>
+    <td valign='top'><ul><li>business intelligence</li><li>sales performance</li><li>finance</li></td>
+    <td valign='top'>Evaluate the main business metrics by day of the week.</td>
+    <td valign='top'>An interactive dashboard with metrics by category, subcategory, and state:<ul><li>total sales</li><li>total profit</li><li>total number of orders</li><li>profit margin</li></td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
+
+  <tr>
+    <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/FinancialAnalysis_17353392284410/FinancialAnalysis">Financial analysis in Tableau</a></td>
+    <td valign='top'><ul><li>finance</li><li> business intelligence</li><li>profitability analysis</li></td>
+    <td valign='top'><ol><li>assess a company’s financial health<li>investigate regions’ profitability<ol></td>
+    <td valign='top'><ul><li>a dashboard with key financial indicators</li><li>a dashboard with regional trends</li><li>a presentation & recommendations</li></td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
+
+  <tr>
+    <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/ReturnReasonsAnalysis_17380660444150/DashboardReturnsReasons">Return reasons analysis in Tableau</a></td>
+    <td valign='top'><ul><li>sales performance</li><li>business intelligence</li></td>
+    <td valign='top'>Identify the root causes of returns.</td>
+    <td valign='top'><ul><li>a dashboard with return reasons and rates by month, customer, state, category and subcategory</li><li>a story with recommendations</li></td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
+
+  <tr>
+    <td valign='top'><a href="https://public.tableau.com/app/profile/galina.makarchuk/viz/GeographicSeasonalImpactonReturns/GeoReturns">Geographic and seasonal returns analysis in Tableau</a></td>
+    <td valign='top'><ul><li>sales performance</li><li>business intelligence</li></td>
+    <td valign='top'><ol><li>explore how geographic and seasonal factors influence the return rate<li>identify the most returned items<ol></td>
+    <td valign='top'>4 interactive dashboards with:<ul><li>geographic effects on returns by state</li><li>return rate by state per subcategory</li><li>seasonal effects on returns by month per subcategory</li><li>geographical-seasonal effects on returns</li></ul>A story with recommendations</td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
   </tbody>
 </table>
 
