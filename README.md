@@ -70,7 +70,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><ul><li>finance</li><li>profitability analysis</li><li>financial forecasting</li></td>
     <td valign='top'><ol><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
     <td valign='top'>
-    <ul><li>key financial indicators</li><li>financial trends</li><li>market shifts and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML regression model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
+    <ul><li>key financial indicators and trends</li><li>market shifts and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
     <td valign='top'><ul><li>SQLite</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Scikit-learn</li><li>Plotly</li><li>Matplotlib</li><li>Tableau</li></td>
   </tr>
       
@@ -78,7 +78,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
     <td valign='top'><ul><li>marketing</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
     <td valign='top'>Marketing spend optimization for Yandex.Afisha.</td>
-    <td valign='top'><ul><li>customers’ behavior: conversion rate, average check, LTV</li><li> interaction with product: DAU, ASL, retention rate</li><li>marketing strategy: money spent per source, CAC, ROI, ROMI</li><li>when the customer pays off</li><li>evaluation of conversion channels</li><li>reports for product, sales & marketing departments</li><li>recommendations on ad sources for investment</li></td>
+    <td valign='top'><ul><li>conversion rate, average check, LTV</li><li>DAU, ASL, retention rate</li><li>money spent per source, CAC, ROI, ROMI</li><li>conversion channels performance</li><li>reports for 3 departments</li><li>recommendations on ad sources for investment</li></td>
     <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
   </tr>
       
@@ -92,7 +92,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
       
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/ab_testing_project">A/B testing</a></td>
-    <td valign='top'><ul><li>e-commerce</li><<li>statistical analysis</li>li>business analytics</li></td>
+    <td valign='top'><ul><li>e-commerce</li><li>statistical analysis</li><li>business analytics</li></td>
     <td valign='top'>Conversion rate boost of a large online retailer.</td>
     <td valign='top'><ul><li>ICE and RICE frameworks</li><li>revenue, average check, conversion rate</li><li>metrics’ cumulative & relative differences</li><li>statistical tests</li><li>a report with recommendations</li></td>
     <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Matplotlib</li></td>
@@ -101,8 +101,8 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/customer_behavior_project">Customer behavior EDA</a></td>
     <td valign='top'><ul><li>business intelligence</li><li>sales performance</li><li>customer behavior</li><li>product analytics</li></td>
-    <td valign='top'><ol><li>customer behavior research <li>sales performance evaluation <li>product analytics <li>shopping cart analysis</ol></td>
-    <td valign='top'><ul><li>Instacart customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
+    <td valign='top'><ol><li>Instacart customer behavior research <li>sales performance evaluation <li>product analytics <li>shopping cart analysis</ol></td>
+    <td valign='top'><ul><li>customer traffic and purchase volume</li><li>waiting time until the next order</li><li>top 20 most frequently ordered and reordered items</li><li>reorder rate per product</li><li>top 20 items that are put in the carts first</li><li>a report with insights into consumers' behavior and shopping habits</li></td>
     <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Matplotlib</li></td>
   </tr>
       
@@ -142,7 +142,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><a href="https://docs.google.com/spreadsheets/d/1T15obKWkox-vhC8lfSlBP1GkH1EEt_OPbmArmYg0WoU/edit?usp=sharing">Vacation rental market analysis</a></td>
     <td valign='top'><ul><li>investment analysis</li><li>real estate analytics</li><li>market research</li></td>
     <td valign='top'><ol><li>revenue estimation <li>prioritization of properties to be targeted <li>recommendations for targeted investment<ol></td>
-    <td valign='top'><ul><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
+    <td valign='top'><ul><li>data cleaning</li><li>data preprocessing</li><li>a pivot table with the top 12 most popular neighborhoods</li><li>a pivot table with the most beneficial property types</li><li>a pivot table with optimal property sizes</li></td>
     <td valign='top'><ul><li>Spreadsheets</li></td>
   </tr>
   </tbody>
