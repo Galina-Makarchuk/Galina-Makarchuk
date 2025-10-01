@@ -66,6 +66,15 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tbody>
   <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/gpx_analysis_tmb" >Geospatial Data Analysis</a></td>
+    <td valign='top'><ul><li>mapping</li><li>geospatial analysis</li><li> outdoor activity analytics</li></td>
+    <td valign='top'>Explore the Tour du Mont Blanc trekking through GPX data and Python.</td>
+    <td valign='top'>
+    <ul><li>data parsing</li><li>GPX statistics</li><li>trekking metrics</li><li>performance metrics</li><li>terrain analysis</li><li>location analysis</li><li>route visualizations</li></td>
+    <td valign='top'><ul><li>Python</li><li>Gpxpy</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Kaleido</li></td>
+  </tr>
+      
+  <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/financial_analysis_project" >Financial analysis</a></td>
     <td valign='top'><ul><li>finance</li><li>profitability analysis</li><li>financial forecasting</li></td>
     <td valign='top'><ol><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
