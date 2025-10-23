@@ -65,9 +65,17 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   </thead>
 
   <tbody>
+    <tr>
+    <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancStatistics/TMBStatistics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Mont Blanc Trek Dashboard</a></td>
+    <td valign='top'><ul><li>outdoor performance analytics</li><li>terrain data analysis</li><li>spatial data visualization</li></td>
+    <td valign='top'>Assessment of the GPX trekking metrics.</td>
+    <td valign='top'>A dashboard with performance and geospatial metrics:<ul><li>elevation profile</li><li>map with stages</li><li>distance vs. time per terrain & per country</li><li>summary statistics</li></td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
+  
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/gpx_analysis_tmb" >Geospatial Data Analysis</a></td>
-    <td valign='top'><ul><li>mapping</li><li>geospatial analysis</li><li> outdoor activity analytics</li></td>
+    <td valign='top'><ul><li>mapping</li><li>geospatial analysis</li><li>outdoor activity analytics</li></td>
     <td valign='top'>Explore the Tour du Mont Blanc trekking through GPX data and Python.</td>
     <td valign='top'>
     <ul><li>data parsing</li><li>GPX statistics</li><li>trekking metrics</li><li>performance metrics</li><li>terrain analysis</li><li>location analysis</li><li>route visualizations</li></td>
