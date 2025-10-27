@@ -36,7 +36,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 * __Excel & Spreadsheets__ \
   pivot tables, VLOOKUP function, calculated fields, data slicing, conditional formatting, handling missing data, data visualizations
 * __Tableau__ \
-  joins, data aggregation, data filtering, handling missing values, calculated fields, data manipulation functions, table calculations, dynamic parameters and filters, context filters, data visualizations, interactive charts, composite charts, dashboards, stories
+  joins, data aggregation, data filtering, handling missing values, data manipulation functions, calculated fields, Level of Detail (LOD) expressions, ad hoc calculations on shelves, quick table calculations, dynamic parameters and filters, context filters, cross-sheet filters, dual-axis charts, custom tooltips, map layers, custom map styles, data visualizations, interactive charts, composite charts, dashboards, stories
 * __Hypothesis testing__ \
   hypothesis prioritization, ICE and RICE frameworks, A/B testing, statistical tests, Shapiro test, Levene's test, Mann-Whitney U test, t-test
 * __Machine learning__ \
