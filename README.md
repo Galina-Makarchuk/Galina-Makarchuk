@@ -68,7 +68,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tr>
     <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancAnalysis/TMBAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Mont Blanc Trek Interactive Analysis</a></td>
     <td valign='top'><ul><li>interactive data analysis</li><li>terrain data analysis</li><li>spatial data visualization</li></td>
-    <td valign='top'>Assessment of the GPX trekking metrics.</td>
+    <td valign='top'>Analytical tool revealing performance and route patterns across trek stages.</td>
     <td valign='top'>An interactive dashboard with dynamic day filtering for:<ul><li>lodging</li><li>distance</li><li>hiking time</li><li>hourly distance</li><li>elevation profile</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
