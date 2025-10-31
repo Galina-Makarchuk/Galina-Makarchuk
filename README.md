@@ -74,7 +74,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   </tr>
     
   <tr>
-    <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancStatistics/TMBStatistics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Outdoor Activity Statistics Dashboard</a></td>
+    <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancStatistics/TMBStatistics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Hiking Statistics Dashboard</a></td>
     <td valign='top'><ul><li>outdoor performance analytics</li><li>terrain data analysis</li><li>spatial data visualization</li></td>
     <td valign='top'>Assessment of the GPX trekking metrics.</td>
     <td valign='top'>A dashboard with performance and geospatial metrics:<ul><li>elevation profile</li><li>map with stages</li><li>distance vs. time per terrain & per country</li><li>summary statistics</li></td>
