@@ -65,7 +65,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   </thead>
 
   <tbody>
-    <tr>
+  <tr>
     <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancAnalysis/TMBAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Mont Blanc Route GeoAnalytics Dashboard</a></td>
     <td valign='top'><ul><li>interactive data analysis</li><li>terrain data analysis</li><li>spatial data visualization</li></td>
     <td valign='top'>Assessment of the GPX trekking metrics.</td>
@@ -73,7 +73,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
     
-    <tr>
+  <tr>
     <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancStatistics/TMBStatistics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Mont Blanc Trek Statistics Dashboard</a></td>
     <td valign='top'><ul><li>outdoor performance analytics</li><li>terrain data analysis</li><li>spatial data visualization</li></td>
     <td valign='top'>Assessment of the GPX trekking metrics.</td>
