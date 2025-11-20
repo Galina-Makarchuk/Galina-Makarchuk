@@ -69,7 +69,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/coffee_quality_analysis.git" >Coffee Quality Analysis</a></td>
     <td valign='top'><ul><li>data science</li><li>data mining</li><li>predictive analytics</li><li>statistical analysis</li><li>research analytics</li><li>explainable AI (XAI)</li></td>
     <td valign='top'>Identification of key factors that drive coffee quality scores.</td>
-    <td valign='top'><ul><li>exploratory data modeling</li><li>correlation matrix</li><li>time series analysis</li><li>coffee attributes vs. quality</li><li>harvest-year trends</li><li>predictive ML model for coffee quality scores</li><li>SHAP feature importance</li><li>visual summaries</li></td>
+    <td valign='top'><ul><li>exploratory data modeling</li><li>correlation matrix</li><li>time series analysis</li><li>production attributes vs. coffee quality</li><li>harvest-year trends</li><li>predictive ML model for coffee quality scores</li><li>SHAP feature importance</li><li>visual summaries</li></td>
     <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Matplotlib</li><li>Seaborn</li><li>Scikit-learn</li><li>Shap</li></td>
   </tr>
       
