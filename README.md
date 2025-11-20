@@ -66,6 +66,14 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tbody>
   <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/coffee_quality_analysis.git" >Coffee Quality Analysis</a></td>
+    <td valign='top'><ul><li>data science</li><li>data mining</li><li>predictive analytics</li><li>statistical analysis</li><li>research analytics</li><li>explainable AI (XAI)</li></td>
+    <td valign='top'>Identification of key factors that drive coffee quality scores.</td>
+    <td valign='top'><ul><li>exploratory data modeling</li><li>correlation matrix</li><li>time series analysis</li><li>production attributes vs. coffee quality</li><li>patterns across harvest years</li><li>predictive ML model for coffee quality scores</li><li>SHAP values and feature importance</li><li>visual summaries of key insights</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Matplotlib</li><li>Seaborn</li><li>Scikit-learn</li><li>Shap</li></td>
+  </tr>
+      
+  <tr>
     <td valign='top'><a href="https://public.tableau.com/views/TourduMontBlancAnalysis/TMBAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Mont Blanc Trek Interactive Analysis</a></td>
     <td valign='top'><ul><li>location intelligence</li><li>visual analytics</li><li>data storytelling</li><li>interactive data analysis</li></td>
     <td valign='top'>Analytical tool revealing performance and route patterns across trek stages.</td>
