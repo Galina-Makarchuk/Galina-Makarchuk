@@ -67,9 +67,9 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tbody>
   <tr>
     <td valign='top'><a href="https://public.tableau.com/views/CoffeeQualityForecast/Forecast?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Cupping Score Forecast Dashboard</a></td>
-    <td valign='top'><ul><li>data science</li><li>data storytelling</li><li>visual data analysis</li><li>predictive modeling</li><li>feature importance analysis</li></td>
+    <td valign='top'><ul><li>data science</li><li>data storytelling</li><li>visual data analysis</li>><li>feature importance analysis</li></td>
     <td valign='top'>Visualization of predictions, model errors, and key drivers of coffee scores.</td>
-    <td valign='top'><ul><li>quality predictions by year</li><li>residuals showing model deviations</li><li>prediction accuracy over time</li><li>attribute impact shown via RF and SHAP</li></td>
+    <td valign='top'><ul><li>annual quality forecasts</li><li>residuals showing model deviations</li><li>prediction accuracy over time</li><li>attribute impact shown via RF and SHAP</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
       
