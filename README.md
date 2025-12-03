@@ -72,7 +72,15 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><ul><li>annual quality forecasts</li><li>residuals showing model deviations</li><li>prediction accuracy over time</li><li>attribute impact shown via RF and SHAP</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
   </tr>
-      
+
+  <tr>
+    <td valign='top'><a href="https://public.tableau.com/views/CoffeeQualityAnalysis_17647798333420/CoffeeQualityAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Coffee Quality Dashboard</a></td>
+    <td valign='top'><ul><li>business intelligence</li><li>beverage analytics</li><li>visual storytelling</li><li>data visualization</li></td>
+    <td valign='top'>Visual insights into the main factors shaping coffee quality.</td>
+    <td valign='top'><ul><li>cupping score distribution</li><li>species and processing impact on quality</li><li>cup-quality trends across harvest years</li></td>
+    <td valign='top'><ul><li>Tableau</li></td>
+  </tr>
+  
   <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/coffee_quality_analysis.git" >Coffee Quality Analysis</a></td>
     <td valign='top'><ul><li>data science</li><li>data mining</li><li>predictive analytics</li><li>statistical analysis</li><li>research analytics</li><li>explainable AI (XAI)</li></td>
