@@ -67,7 +67,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
   <tbody>
   <tr>
     <td valign='top'><a href="https://public.tableau.com/views/CoffeeQualitybyCountry/QualityperCountry?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Interactive World of Coffee</a></td>
-    <td valign='top'><ul><li>coffee market analysis</li><li>data-driven procurement</li><li>business intelligence</li><li>data visualization</li><li>interactive data analysis</li></td>
+    <td valign='top'><ul><li>coffee market analysis</li><li>data-driven procurement</li><li>business intelligence</li><li>interactive data analysis</li></td>
     <td valign='top'>Identify standout coffee origins and support data-driven decisions in sourcing.</td>
     <td valign='top'><ul><li>country ranking by coffee quality</li><li>a world map colored by quality score</li><li>a KPI card with the dataset scale</li><li>2 dynamic filters: Top n countries & Number of samples</li></td>
     <td valign='top'><ul><li>Tableau</li></td>
