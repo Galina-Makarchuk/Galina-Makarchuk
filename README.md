@@ -30,7 +30,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 * __Data engineering__ \
   data retrieval, data optimization, data cleaning, data preprocessing
 * __SQL & Databases__ \
-  data aggregation, data transformation, filtering, merging and joins, window functions
+  data aggregation, data transformation, filtering, merging and joins, subqueries, window functions
 * __Python & Statistics__ \
   data anomalies, data balance, descriptive statistics, data aggregation, grouping, sorting and ranking, merging, dataframes concatenation, data selection, boolean indexing, conditional filtering, replacing values, dropping values, lambda function, mask method, split-apply-combine, window calculations, multicollinearity, correlation matrix, data visualizations
 * __Excel & Spreadsheets__ \
