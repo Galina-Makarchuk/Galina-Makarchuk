@@ -66,7 +66,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tbody>
   <tr>
-    <td valign='top'><a href="https://github.com/Galina-Makarchuk/crypto_strategies" >Entry/exit methods in trading strategies</a></td>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/crypto_strategies" >Crypto strategies entry/exit framework</a></td>
     <td valign='top'><ul><li>crypto analysis</li><li>trading strategies</li><li>research analytics</li><li>quantitative analysis</li><li>data visualization</li></td>
     <td valign='top'>Research entry and exit logic across trading strategies to improve timing and decision quality.</td>
     <td valign='top'><ul><li>rule-based signal design</li><li>performance metrics: win rate, P&L, drawdown</li><li>systematic backtesting</li><li>a normalized price-action view: streak length and volume</li></td>
