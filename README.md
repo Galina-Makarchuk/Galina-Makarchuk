@@ -66,6 +66,14 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tbody>
   <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/crypto_strategies" >Entry/exit methods in trading strategies</a></td>
+    <td valign='top'><ul><li>crypto analysis</li><li>trading strategies</li><li>research analytics</li><li>quantitative analysis</li><li>data visualization</li></td>
+    <td valign='top'>Research entry and exit logic across trading strategies to improve timing and decision quality.</td>
+    <td valign='top'><ul><li>rule-based signal design</li><li>performance metrics: win rate, P&L, drawdown</li><li>systematic backtesting</li><li>a normalized price-action view: streak length and volume</li></td>
+    <td valign='top'><ul><li>SQLite</li><li>Pytest</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>Requests</li><li>Plotly</li><li>Matplotlib</li><li>Jupyter Notebook</li><li>GitHub</li></td>
+  </tr>
+    
+  <tr>
     <td valign='top'><a href="https://public.tableau.com/views/CoffeeQualitybyCountry/QualityperCountry?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Interactive World of Coffee</a></td>
     <td valign='top'><ul><li>coffee market analysis</li><li>data-driven procurement</li><li>business intelligence</li><li>interactive data analysis</li></td>
     <td valign='top'>Identify standout coffee origins and support data-driven decisions in sourcing.</td>
