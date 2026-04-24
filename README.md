@@ -66,6 +66,14 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
   <tbody>
   <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/ema_analysis" >EMA optimization scanner</a></td>
+    <td valign='top'><ul><li>price behavior</li><li>technical analysis</li><li>trading indicators</li><li>comparative analysis</li></td>
+    <td valign='top'>Find EMAs that price treats as support or resistance on a custom market.</td>
+    <td valign='top'><ul><li>core pipeline: fetch ByBit data -> analyze -> run -> export</li><li>customizable parameters: symbol, timeframe, date range, ema range, delta</li><li>interactive financial charts</li><li>EMAs: support, resistance, universal</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Requests</li><li>Plotly</li><li>Jupyter Notebook</li><li>GitHub</li></td>
+  </tr>
+      
+  <tr>
     <td valign='top'><a href="https://github.com/Galina-Makarchuk/crypto_strategies" >Crypto strategies entry/exit framework</a></td>
     <td valign='top'><ul><li>crypto analysis</li><li>trading strategies</li><li>research analytics</li><li>quantitative analysis</li><li>data visualization</li></td>
     <td valign='top'>Research entry and exit logic across trading strategies to improve timing and decision quality.</td>
