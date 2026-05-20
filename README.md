@@ -254,5 +254,4 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 </table>
 
 __Connection possibilities:__
-* Email: galya.makarchuk@gmail.com
-* LinkedIn: [linkedin.com/in/galina-makarchuk](https://www.linkedin.com/in/galina-makarchuk/)
+LinkedIn: [linkedin.com/in/galina-makarchuk](https://www.linkedin.com/in/galina-makarchuk/)
