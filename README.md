@@ -5,13 +5,13 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 <h3>Technical skills</h3>
 
 * __Programming languages__ \
-  SQL, Python (Pandas, NumPy, SciPy)
+  SQL, Python (Pandas, NumPy, SciPy, Scikit-learn, Shap, Statsmodels, Gpxpy, Mplfinance)
 * __Data analysis__ \
   Financial analytics, Business analytics, Performance evaluation, Trends analysis, Cohort analysis, A/B testing, Statistical analysis, Exploratory Data Analysis, RFM analysis, Basket analysis, Cosine similarity, Segment margin analysis, Correlation analysis, Regression analysis, Time series analysis
 * __Data visualization__ \
   Plotly, Seaborn, Matplotlib
 * __Machine learning__ \
-  Scikit-learn, supervised learning (Regression, Classification), unsupervised learning (Clustering)
+  Supervised learning (Regression, Classification), unsupervised learning (Clustering)
 * __Business intelligence__ \
   Excel, Google Sheets, Tableau
 * __Database management__ \
