@@ -80,7 +80,32 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'><ul><li>rule-based signal design</li><li>performance metrics: win rate, P&L, drawdown</li><li>systematic backtesting</li><li>a normalized price-action view: streak length and volume</li></td>
     <td valign='top'><ul><li>SQLite</li><li>Pytest</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>Requests</li><li>Plotly</li><li>Matplotlib</li><li>Jupyter Notebook</li><li>GitHub</li></td>
   </tr>
-    
+
+  <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/financial_analysis_project" >Financial analysis</a></td>
+    <td valign='top'><ul><li>finance</li><li>profitability analysis</li><li>financial forecasting</li></td>
+    <td valign='top'><ol><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
+    <td valign='top'>
+    <ul><li>key financial indicators and trends</li><li>market shifts and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
+    <td valign='top'><ul><li>SQLite</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Scikit-learn</li><li>Plotly</li><li>Matplotlib</li><li>Tableau</li></td>
+  </tr>
+      
+  <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
+    <td valign='top'><ul><li>marketing</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
+    <td valign='top'>Marketing spend optimization for Yandex.Afisha.</td>
+    <td valign='top'><ul><li>conversion rate, average check, LTV</li><li>DAU, ASL, retention rate</li><li>money spent per source, CAC, ROI, ROMI</li><li>conversion channels performance</li><li>reports for 3 departments</li><li>recommendations on ad sources for investment</li></td>
+    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
+  </tr>
+      
+  <tr>
+    <td valign='top'><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
+    <td valign='top'><ul><li>data science</li><li>recommender system</li><li>supervised learning</li></td>
+    <td valign='top'>ML model that recommends the mobile plan most tailored to user's needs.</td>
+    <td valign='top'><ul><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
+    <td valign='top'><ul><li>Python</li><li>Scikit-learn</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
+  </tr>
+
   <tr>
     <td valign='top'><a href="https://public.tableau.com/views/CoffeeQualitybyCountry/QualityperCountry?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" >Interactive World of Coffee</a></td>
     <td valign='top'><ul><li>coffee market analysis</li><li>data-driven procurement</li><li>business intelligence</li><li>interactive data analysis</li></td>
@@ -136,31 +161,6 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
     <td valign='top'>
     <ul><li>data parsing</li><li>GPX statistics</li><li>trekking metrics</li><li>performance metrics</li><li>terrain analysis</li><li>location analysis</li><li>route visualizations</li></td>
     <td valign='top'><ul><li>Python</li><li>Gpxpy</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Kaleido</li></td>
-  </tr>
-      
-  <tr>
-    <td valign='top'><a href="https://github.com/Galina-Makarchuk/financial_analysis_project" >Financial analysis</a></td>
-    <td valign='top'><ul><li>finance</li><li>profitability analysis</li><li>financial forecasting</li></td>
-    <td valign='top'><ol><li>cost optimization <li>margin improvement <li>financial strategy enhancement</ol></td>
-    <td valign='top'>
-    <ul><li>key financial indicators and trends</li><li>market shifts and regional profitability</li><li>hypothesis testing: an effect of manufacturing costs on profit margins</li><li>ML model for profit forecasting</li><li>a dashboard & a report with recommendations</li></td>
-    <td valign='top'><ul><li>SQLite</li><li>Python</li><li>Pandas</li><li>NumPy</li><li>SciPy</li><li>Scikit-learn</li><li>Plotly</li><li>Matplotlib</li><li>Tableau</li></td>
-  </tr>
-      
-  <tr>
-    <td valign='top'><a href="https://github.com/Galina-Makarchuk/business_analytics_project">Business analytics</a></td>
-    <td valign='top'><ul><li>marketing</li><li>advertising analytics</li><li>customer analytics</li><li>business reporting</li></td>
-    <td valign='top'>Marketing spend optimization for Yandex.Afisha.</td>
-    <td valign='top'><ul><li>conversion rate, average check, LTV</li><li>DAU, ASL, retention rate</li><li>money spent per source, CAC, ROI, ROMI</li><li>conversion channels performance</li><li>reports for 3 departments</li><li>recommendations on ad sources for investment</li></td>
-    <td valign='top'><ul><li>Python</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
-  </tr>
-      
-  <tr>
-    <td valign='top'><a href="https://github.com/Galina-Makarchuk/machine_learning_project">Machine learning</a></td>
-    <td valign='top'><ul><li>data science</li><li>recommender system</li><li>supervised learning</li></td>
-    <td valign='top'>ML model that recommends the mobile plan most tailored to user's needs.</td>
-    <td valign='top'><ul><li>3 classification models</li><li>data validation & quality assurance</li><li>hyperparameters tuning</li><li>model testing</li><li>model performance evaluation</li><li>a report with results</li></td>
-    <td valign='top'><ul><li>Python</li><li>Scikit-learn</li><li>Pandas</li><li>NumPy</li><li>Plotly</li><li>Matplotlib</li><li>Seaborn</li></td>
   </tr>
       
   <tr>
