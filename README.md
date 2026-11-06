@@ -44,8 +44,7 @@ A Data Analyst with practical experience in delivering data-driven projects, fro
 
 <h3>My features</h3>
 
-* Analytical excellence: a strong attention to detail allows me to uncover hidden gems in data, \
-  and deliver accurate and actionable insights.
+* Analytical precision: I connect details, recognize trends, and turn complex information into clear conclusions.
 * Clean code: elegant coding style, solid foundation in Python.
 * Clear communication: presenting complex findings in simple, understandable ways.
 * Continuous evolving and self-improving.
